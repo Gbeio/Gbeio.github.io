@@ -2,7 +2,7 @@
 </b:includable>
                     <b:includable id='defaultAdUnit'>
           <b:comment>Clear out style (needs to be a non-empty string)</b:comment>
-          <b:with value='&quot;/* Done in css. */&quot;' var='style'>
+          <b:with value='&quot;/* Done in css. */&quot;y' var='style'>
             <b:include name='super.defaultAdUnit'/>
           </b:with>
         </b:includable>
