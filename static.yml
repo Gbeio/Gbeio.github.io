@@ -1,4 +1,4 @@
-<DOCTYPE html ><title>Pages</title>
+<!DOCTYPE html ><title>Pages</title>
 <link rel="stylesheet"href="style.css>
 on:
   # Runs on pushes targeting the default branch
